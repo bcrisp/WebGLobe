@@ -1,0 +1,13 @@
+C:\Dev\Globe\Global\bin\Global.dll.config
+C:\Dev\Globe\Global\bin\Global.dll
+C:\Dev\Globe\Global\bin\Global.pdb
+C:\Dev\Globe\Global\bin\Newtonsoft.Json.dll
+C:\Dev\Globe\Global\bin\System.Net.Http.Formatting.dll
+C:\Dev\Globe\Global\bin\System.Web.Http.dll
+C:\Dev\Globe\Global\bin\System.Web.Http.WebHost.dll
+C:\Dev\Globe\Global\bin\Newtonsoft.Json.xml
+C:\Dev\Globe\Global\bin\System.Net.Http.Formatting.xml
+C:\Dev\Globe\Global\bin\System.Web.Http.xml
+C:\Dev\Globe\Global\bin\System.Web.Http.WebHost.xml
+C:\Dev\Globe\Global\obj\Debug\Global.dll
+C:\Dev\Globe\Global\obj\Debug\Global.pdb
